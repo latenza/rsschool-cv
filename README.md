@@ -1,2 +1,2 @@
-https://latenza.github.io/rsschool-cv/
+[link](https://latenza.github.io/rsschool-cv/)
 
