@@ -1,2 +1,2 @@
-[link](https://latenza.github.io/rsschool-cv/cv)
+[link](https://latenza.github.io/rsschool-cv/)
 
